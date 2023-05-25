@@ -5,6 +5,6 @@ This repository contains simple coding of array from 1 - 100, numbers divisible 
 ## How to run
 
 1. Download the zip file and extract it anywhere in your pc.
-2. Open the big bang array folder and double click index.html file to run the script on browser.
+2. Open the Big-Bang-Array-main folder and double click index.html file to run the script on browser.
 3. Click on the "Print Array" button to export the output into .json file.
 4. You can view the .json file using various software such as word or notepad
